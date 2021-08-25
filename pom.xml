@@ -39,7 +39,7 @@
         </configuration>
       </plugin>
              
-      <finalName>test2</finalName>
+      
     
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
